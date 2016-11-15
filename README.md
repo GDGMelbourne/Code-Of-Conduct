@@ -2,7 +2,7 @@
 
 ## Code of Conduct
 
-The **Android Study Group Slack** should be a safe place for everybody regardless of
+The **Melbourne GDG Slack** should be a safe place for everybody regardless of
 
 - gender, gender identity or gender expression 
 - sexual orientation
@@ -18,7 +18,7 @@ As someone who is part of this Slack, you agree that:
 * We have zero tolerance for abuse, harassment, or discrimination.
 * We respect people’s boundaries and identities.
 * We refrain from using language that can be considered oppressive (systemically or otherwise), eg. sexist, racist, homophobic, transphobic, ableist, classist, etc. - this includes (but is not limited to) various slurs.
-We avoid using offensive topics as a form of humor.
+* We avoid using offensive topics as a form of humor.
 
 
 We actively work towards:
@@ -48,33 +48,26 @@ Failing to follow the community guidelines as described in this document carries
 
 **If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current admins and their Slack IDs:**
 
-* Aleksei Zakharov - @alexey
-* Ben Lee - @bl
-* Corey Latislaw - @colabug
-* Danny Roa - @dannyroa
-* Eric Butler - @codebutler
-* Grantland Chew - @grantland
-* Haley Smith - @haley
-* Jake Wharton - @jw
-* Maria Neumayer - @maria
-* Ty Smith - @ty
-* Vince Mi - @vince
+* Luke Sleeman - @luke.sleeman
+* Ben Teese - @bent
+* Tim Osmond - @tim
+
 
 *The role of the admins is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
 
 ## Member Nomination  
 
-To nominate someone to join the Android Study Group, fill out [this](http://asgweb.herokuapp.com/nominate/) form with your name, their name and info, and why you are nominating them.  
+The GDG Slack channel is open to all who attend the GDG Melbourne events and everyone involved in the Melbourne Android and Google developer communities.  To nominate somebody for membership or request membership for yourself, approach one of the organisaers at a GDG Melbourne event.
 
-This study group is for people actively involved in creating Android applications professionally. This includes people like software engineers and designers, and excludes people like journalists or recruiters. The admins will take into consideration the amount of time the nominee has spent working on Android (at least 1 year is ideal). Other helpful data points include the company where they work (if applicable), apps they have built, and their contributions to the Android community (via open source software, meetups, blog posts, etc). Membership is determined by a vote from the admins, who will then send out an invitation to the nominee.
+This Slack group is for people actively involved in creating application using google products.  This includes people like software engineers and designers, and excludes people like journalists or recruiters.
 
-If there is any person you would like to keep out of the study group for any reason, message one of the admins.  
+If there is any person you would like to keep out of the GDG Melbourne Slack channel for any reason, message one of the admins.  
 
 ## Slack Etiquette
 
 ### Slack Commands
 
-Many members of ASG have this Slack open during the work day, or installed on their phones. Additionally, there are members in many different time zones. Please be cautious about using  `@channel` or `@everyone` and avoid it if possible.
+Many members of GDG Melbourne Slack channel have this Slack open during the work day, or installed on their phones.  Please be cautious about using  `@channel` or `@everyone` and avoid it if possible.
 
 For tips and tricks or questions about Slack usage, check out #meta.
 
