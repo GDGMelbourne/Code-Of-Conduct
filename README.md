@@ -71,6 +71,10 @@ Many members of GDG Melbourne Slack channel have this Slack open during the work
 
 For tips and tricks or questions about Slack usage, check out #meta.
 
+### Posting Jobs
+
+We have a dedicated channel `#jobs-board` for posting jobs. Please only post jobs to this channel.
+
 ### Q & A
 
 Value your fellow members' time, and be considerate when asking questions. Before asking a question, please Google for it, and consult the Android documentation. If it is still unclear, please reference the sources you consulted in your question.
